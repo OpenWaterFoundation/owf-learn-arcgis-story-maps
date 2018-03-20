@@ -87,6 +87,7 @@ Data layers can also be added to a map from the web through a URL.  The followin
 web:  ArcGIS Server web service; OGC WFS, WMS and WMTS web services; Tile layer; KML file; GeoRSS file; and CSV file.  Note that 
 you currently cannot load GeoJSON files from the web.
 
+### Add a CSV file from the web ###
 Let's add a CSV file from the web.  Note that with adding CSV files, you are limited to adding *point* layers because you cannot 
 represent line or polygon features in CSV format.  This example will also illustrate how it is possible to add CSV files from a 
 [GitHub](https://github.com/) repository.  Also note that since this file is available on the web, you can directly follow along 
@@ -99,7 +100,7 @@ You should see the following:
 2.  Click on the `data` folder.  Then click on `Colorado-Municipalities.csv`.  You should see an image similar to that below.
 
 ![Add Layer from Web 2](add-layer-images/layerfromweb2.png)    
-3.  Click on the "Raw" button (highlighted in image above).  The page should now look like the following:
+3.  Click on the "Raw" button (highlighted in image above).  The page should now look like the following (to see a larger image, right click on the image and select "Open image in new tab"):
 
 ![Add Layer from Web 3](add-layer-images/layerfromweb3.png)  
 4.  Copy the URL address in the address bar.  Notice that the address ends in ".csv".  
@@ -116,8 +117,29 @@ On the left-hand side of the map, under "Choose an attribute to show" (1) choose
 "Show location only".  The point layer is symbolized with a single color.  Then click "Done".  You can now see all of 
 Colorado's municipalities symbolized on the map.
 
+------------------
+### Add a KML file from the web ###
+Now let's add a KML from the [Colorado Information Marketplace (CIM)](https://data.colorado.gov).  By using KML format, we can add a *polygon* layer, rather 
+than just point data.  We will use the [Counties in Colorado](https://data.colorado.gov/Transportation/Counties-in-Colorado/67vn-ijga) dataset.
 
-**TO DO:  Try adding a KML polygon file from CIM**
+1.  Navigate to the [dataset](https://data.colorado.gov/Transportation/Counties-in-Colorado/67vn-ijga).  Click on the blue Export button:
+
+![Add Layer from Web 7](add-layer-images/layerfromweb7.png)  
+2.  Right-click on "KML" and select "Copy link address":
+
+![Add Layer from Web 8](add-layer-images/layerfromweb8.png)  
+3.  Navigate back to Map Viewer.  Click the Add button, then select Add Layer from Web.  
+4.  Under "What type of data are you referencing?" choose "A KML File".  Then paste in the URL that you previously copied.
+
+![Add Layer from Web 9](add-layer-images/layerfromweb9.png)  
+5.  Click on "Add Layer".  Your map should look like the following:
+
+![Add Layer from Web 10](add-layer-images/layerfromweb10.png)  
+**Note that the layer is simply listed as "KML" and it does not have an attribute table associated with it.**  OWF has limited experience thus far with 
+KML files, so it is uncertain whether this is typical for KML files or if this is an error in the CIM website.  If a user only wishes to use a polygon 
+layer for boundary designations, then this file format works fine.  But if a user wants to symbolize the polygons based on some attribute, for example, 
+to create a choropleth map, then adding in a KML file in this fashion does not appear to be adequate.  Furthermore, file sizes must be smaller than 
+**10 MB** in order to be added from the web.
 
 ------------------
 ## Other Methods for Adding Layers ##
