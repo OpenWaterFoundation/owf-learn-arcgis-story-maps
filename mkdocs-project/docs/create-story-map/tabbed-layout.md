@@ -110,10 +110,72 @@ The new tab looks like the following:
 
 ![Tabbed Layout 14](tabbed-layout-images/tabbedlayout14.png)  
 
-As a further illustration, let's add in information about the South Platte Basin from the Colorado Water 
-Plan's [website](https://www.colorado.gov/pacific/cowaterplan/south-platte-river-basin).  This will allow 
-us to directly access a web page within the Story Map.  
+As a further illustration, let's add in information about the South Platte's Basin Implementation Plan. 
+This will allow us to directly access a web page within the Story Map.  
 3.  Click on the "ADD" tab.  Select "Web page" from the "CONTENT:" options.  Insert the 
-[link](https://www.colorado.gov/pacific/cowaterplan/south-platte-river-basin) to the South Platte Basin's 
-page in the "Web page link" window.  Configure the page to fill the screen.  Click "ADD".
-**This isn't working.  Why?**
+[link](https://www.colorado.gov/pacific/sites/default/files/SouthPlatteBasinImplementationPlan-04172015.pdf) 
+to the South Platte's Basin Implementation Plan URL in the "Web page link" window.  Configure the page to 
+fill the screen.  Click "ADD":
+
+![Tabbed Layout 15](tabbed-layout-images/tabbedlayout15.png)  
+You can scroll through the document as if you were accessing it from a separate web page.
+  
+**Note that not all websites, even https addresses, will load.  For example, OWF attempted to load the 
+address for South Platte Basin information from the Colorado Water Plan's website 
+(https://www.colorado.gov/pacific/cowaterplan/south-platte-river-basin) and the page would not load.  At 
+this time OWF has not determined why some pages load and others do not.** 
+
+-----------------
+## Save and Share the Story Map ##
+Before the Story Map is shared and given its own URL address, we can first view how it will look as a 
+finished product and make additional edits, if necessary.
+
+1.  At the top of the Story Map page, click "VIEW STORY":
+
+![Tabbed Layout 16](tabbed-layout-images/tabbedlayout16.png)  
+A new tab opens that shows how the Story Map will look to the public.  Most of the tabs look good.  The 
+one exception is the Agriculture in the South Platte Basin tab.  Here, the text is covering up some of the 
+image.  We can go back to the editable version of the Story Map and change the positioning of the image.  
+2.  Click on the Agriculture in the South Platte Basin tab.  Then click "EDIT".  Change the Position to 
+Center.  The tab should now look like the following:
+
+![Tabbed Layout 17](tabbed-layout-images/tabbedlayout17.png)  
+3.  Save the story and then click "VIEW STORY".  Now the text does not hide the image.  
+4.  Now we can share the Story Map, which will make it public and give the story its own URL.  Click on 
+"SHARE":
+
+![Tabbed Layout 18](tabbed-layout-images/tabbedlayout18.png)    
+5.  You will then see the screen below.  Click "Public":
+
+![Tabbed Layout 19](tabbed-layout-images/tabbedlayout19.png)    
+The Story Map now has its own URL address.  Click "CLOSE".
+
+Another way to find the Story Map's address is to navigate to the Content page of your account.  Once there, 
+click on the Story Map, then click on View Application:
+
+![Tabbed Layout 20](tabbed-layout-images/tabbedlayout20.png)  
+The Story Map opens in a new tab, where you can view its URL address.
+
+This example Tabbed Layout Story Map can be viewed [here](https://www.arcgis.com/apps/MapSeries/index.html?appid=5664b970f6154193a1dab3b5d4f27336&edit).
+
+------------------
+## Next Steps ##
+We have now created a basic Story Map using the Tabbed Layout template.  Next we will make the same story 
+using the Side Accordion template.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

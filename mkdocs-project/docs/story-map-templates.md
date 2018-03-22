@@ -1,7 +1,8 @@
 # Story Map Templates #
 A Story Map is created via one of several app [templates](https://storymaps.arcgis.com/en/app-list/).  The
-three templates that appear to be most useful for the kind of work that OWF does are the Story Map Series 
-templates: tabbed layout, side accordion layout and bulleted layout.  These are described below.
+four templates that appear to be most useful for the kind of work that OWF does are the Story Map Series 
+templates: tabbed layout, side accordion layout and bulleted layout, as well as the Story Map Cascade template. 
+These are described below.
 
 ## Story Map Series - Tabbed Layout ##
 The tabbed layout presents a series of maps via a set of tabs.  An optional description panel for presenting 
@@ -37,6 +38,14 @@ below in which the eleventh bullet of the story is visible.  This Story Map can 
 We will create a Story Map in bulleted layout in a subsequent section.
 
 ------------------
+## Story Map Cascade ##
+The Cascade template creates a story that contains a full-screen scrolling experience that blends narrative text, 
+maps, 3D scenes, images, videos, etc.  Sections containing text and in-line media can be interspersed with "immersive" 
+content that fills the screen, including map animations and transition effects.  An example Story Map can be viewed 
+[here](https://cwcb.maps.arcgis.com/apps/Cascade/index.html?appid=b588bcb8451d4ae1bccabde5a05a8952).  We will 
+create a Story Map Cascade in a subsequent section.
+
+------------------
 ## Other Templates ##
 
 Other Story Map templates that may be useful include the following:
@@ -48,7 +57,6 @@ about the water crisis in the Southwest.
 * ** Story Map Journal** - creates an in-depth narrative organized into sections presented in a scrolling side panel.
 As users scroll through the sections they see the content associated with each section, such as a map, 3D scene, image, 
 video, etc.  See an [example](https://storymaps.esri.com/stories/2017/big-dams/) about big dams.
-* **Story Map Cascade ** - need to fill in.
 * **Story Map Crowdsource** - need to fill in.
 * **Story Map Shortlist** - need to fill in.
 * **Story Map Swipe** - need to fill in.
@@ -57,5 +65,4 @@ video, etc.  See an [example](https://storymaps.esri.com/stories/2017/big-dams/)
 
 ------------------
 ## Next Steps ##
-
 The next step is to create a basic Story Map using the templates.

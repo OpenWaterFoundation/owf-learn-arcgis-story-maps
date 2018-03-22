@@ -7,7 +7,7 @@ pages:
 - Home: index.md
 - Introduction: introduction.md
 - Create an ArcGIS Online Account: create-account.md
-- 'Create a Basic Map':
+- Create a Basic Map:
   - Overview: 'create-map/overview.md'
   - Choose a Basemap: 'create-map/choose-basemap.md'
   - Add Layers: 'create-map/add-layers.md'
@@ -15,12 +15,16 @@ pages:
   - Configure Pop-ups: 'create-map/configure-popups.md'
   - Save the Map: 'create-map/save-map.md'
 - Story Map Templates: story-map-templates.md
-- 'Create a Story Map':
+- Create a Story Map:
   - Overview: 'create-story-map/overview.md'
   - Tabbed Layout Example: 'create-story-map/tabbed-layout.md'
   - Side Accordion Layout Example: 'create-story-map/side-accordion-layout.md'
   - Bulleted Layout Example: 'create-story-map/bulleted-layout.md'
-- Story Maps for Developers: developers.md
+- Hosting Your Own Story Map: 
+  - Overview: hosting/overview.md
+  - Hosting an Un-Customized App: 'hosting/uncustomized-app.md'
+  - Hosting a Styled App: 'hosting/styled-app.md'
+  - Hosting a Customized App: 'hosting/customized-app.md'
 - 'Resources': resources.md
 # ------- configuration properties ---------------
 # Use Material theme

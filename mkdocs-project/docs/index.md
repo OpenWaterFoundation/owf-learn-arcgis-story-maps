@@ -30,16 +30,20 @@ The following main sections are included in this documentation:
 * [Introduction](introduction) - describes what Story Maps are and why you might want to create one
 * [Create an ArcGIS Online Account](create-account) - describes both the free and subscription-style accounts
 * [Create a Basic Map](create-map/overview)
-	+ [Choose a Basemap](choose-basemap)
-	+ [Add Layers](add-layers)
-	+ [Change the Map Style](change-style)
-	+ [Configure Pop-ups](configure-popups)
-	+ [Save the Map](save-map)
+	+ [Choose a Basemap](create-map/choose-basemap)
+	+ [Add Layers](create-map/add-layers)
+	+ [Change the Map Style](create-map/change-style)
+	+ [Configure Pop-ups](create-map/configure-popups)
+	+ [Save the Map](create-map/save-map)
 * [Story Map Templates](story-map-templates)
 * [Create a Story Map](create-story-map/overview)	
 	+ [Tabbed Layout Example](create-story-map/tabbed-layout)
 	+ [Side Accordion Layout Example](create-story-map/side-accordion-layout)
 	+ [Bulleted Layout Example](create-story-map/bulleted-layout)
+* [Hosting Your Own Story Map](hosting/overview)
+	+ [Hosting an Un-Customized App](hosting/uncustomized-app)
+	+ [Hosting a Styled App](hosting/styled-app)
+	+ [Hosting a Customized App](hosting/customized-app)
 * [Resources](resources) - various resources
 
 ## License ##
