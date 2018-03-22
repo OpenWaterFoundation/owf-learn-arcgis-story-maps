@@ -1,7 +1,7 @@
 # Learn ArcGIS Story Maps / Hosting an Un-Customized Story Map #
 In this hosting scenario, you might be a web administrator who wants to host the Story Map on your own 
-server in order to have a custom URL and the ability to collect usage statistics.  You are not looking 
-to make any changes to the original Story Map.
+server in order to have a custom URL and the ability to collect usage statistics.  **You are not looking 
+to make any changes to the original Story Map**.
 
 You will not need to alter the app code beyond some edits to the ``index.html`` file.
 
@@ -19,7 +19,7 @@ Click on Overview:
 ![Uncustomized 2](uncustomized-images/uncustomized2.png)  
 This is the compiled code that was discussed in the previous section.  
     d.  The code will be downloaded to your Downloads folder as a zip file with the following name:  
-``Storytelling-MapSeries-1.10.1``   
+``storymap-series-1.10.1``   
 2.  Extract the zipped files and then open ``index.html`` with a text editor like Notepad++.  The 
 page will look like the following:
 

@@ -156,7 +156,7 @@ click on the Story Map, then click on View Application:
 ![Tabbed Layout 20](tabbed-layout-images/tabbedlayout20.png)  
 The Story Map opens in a new tab, where you can view its URL address.
 
-This example Tabbed Layout Story Map can be viewed [here](https://www.arcgis.com/apps/MapSeries/index.html?appid=5664b970f6154193a1dab3b5d4f27336&edit).
+This example Tabbed Layout Story Map can be viewed [here](https://www.arcgis.com/apps/MapSeries/index.html?appid=5664b970f6154193a1dab3b5d4f27336).
 
 ------------------
 ## Next Steps ##

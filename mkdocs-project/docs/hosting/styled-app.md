@@ -5,7 +5,7 @@ to modify the app's CSS; you can do this by using ``<style>`` tags in the ``inde
 
 The following steps assume you have already built a Story Map on ArcGIS Online.
 
-1.  Download the compiled code for the app you used to build the story  
+1.  Download the compiled code for the app you used to build the story.  
     a.  Navigate to the [Story Maps Apps](https://storymaps.arcgis.com/en/app-list/) page.  
 	b.  Find the app you used to build the story.  In this example, we used the Tabbed Layout app. 
 Click on Overview:
@@ -17,7 +17,7 @@ Click on Overview:
 ![Styled 2](styled-images/styled2.png)  
 This is the compiled code that was discussed in the previous section.  
     d.  The code will be downloaded to your Downloads folder as a zip file with the following name:  
-``Storytelling-MapSeries-1.10.1``   
+``storymap-series-1.10.1``.   
 2.  Extract the zipped files and then open ``index.html`` with a text editor like Notepad++.  The 
 page will look like the following:
 
@@ -25,7 +25,7 @@ page will look like the following:
 3.  Scroll to line 40.  You should see the following text:  
 ``appid: "",``  
 4.  Insert the Story Map ID between the quotation marks:  
-``appid: "5664b970f6154193a1dab3b5d4f27336",``  
+``appid: "5664b970f6154193a1dab3b5d4f27336",``.  
 5.  Make changes to the app's appearance by adding ``<style>`` tags to the file.  
     a.  **Need an example here.**  
 6.  Save the ``index.html`` file and close it.  

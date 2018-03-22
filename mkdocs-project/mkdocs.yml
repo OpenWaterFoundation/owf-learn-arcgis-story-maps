@@ -25,6 +25,7 @@ pages:
   - Hosting an Un-Customized App: 'hosting/uncustomized-app.md'
   - Hosting a Styled App: 'hosting/styled-app.md'
   - Hosting a Customized App: 'hosting/customized-app.md'
+  - FAQs About Hosting and Editing: 'hosting/hosting-faqs.md'
 - 'Resources': resources.md
 # ------- configuration properties ---------------
 # Use Material theme

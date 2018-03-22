@@ -1,8 +1,10 @@
 # Learn ArcGIS Story Maps / Hosting Your Own Story Map #
 Story Maps are open source.  This means you can download the code for any Story Map app for free from 
 [GitHub](https://github.com/Esri?q=Storytelling), host it on your own server and perform further 
-customization of the Story Map.  In this section we'll discuss why you might want to host your own Story 
-Map, how the app works when it runs on your server and instructions for hosting your own Story Map.
+customization of the Story Map.  (**Notice that this is customization, not editing, of the Story Map. 
+This will be discussed more later.**)  In this section we'll discuss why you might want to host your 
+own Story Map, how the app works when it runs on your server and instructions for hosting your own 
+Story Map.
 
 This section is adapted from [this](https://developerscorner.storymaps.arcgis.com/an-introduction-to-hosting-your-own-story-map-e2450181ad2f) 
 Esri article.

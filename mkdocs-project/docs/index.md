@@ -44,6 +44,7 @@ The following main sections are included in this documentation:
 	+ [Hosting an Un-Customized App](hosting/uncustomized-app)
 	+ [Hosting a Styled App](hosting/styled-app)
 	+ [Hosting a Customized App](hosting/customized-app)
+	+ [FAQs About Hosting and Editing](hosting/hosting-faqs)
 * [Resources](resources) - various resources
 
 ## License ##
