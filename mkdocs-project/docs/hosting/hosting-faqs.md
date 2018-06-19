@@ -29,4 +29,8 @@ also be found [here](https://github.com/Esri/storymap-series/#faq).
 * **Can you use the Story Map app templates without ArcGIS Online?**
     From Esri: "This is not a supported use case at this time.  Please let us know if you are interested 
 	in such a scenario".
-
+	
+------------------
+## Next Steps ##
+The next step is understanding how to share and/or collaborate on a Story Map with others, either in a 
+public or private fashion.

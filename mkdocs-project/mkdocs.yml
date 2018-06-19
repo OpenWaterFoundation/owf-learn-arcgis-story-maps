@@ -26,7 +26,8 @@ pages:
   - Hosting a Styled App: 'hosting/styled-app.md'
   - Hosting a Customized App: 'hosting/customized-app.md'
   - FAQs About Hosting and Editing: 'hosting/hosting-faqs.md'
-- 'Resources': resources.md
+- Sharing and Collaborating on a Story Map: share-collaborate.md   
+- Resources: resources.md
 # ------- configuration properties ---------------
 # Use Material theme
 # - installation notes:  https://github.com/squidfunk/mkdocs-material

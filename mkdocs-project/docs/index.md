@@ -25,27 +25,10 @@ use the Story Map templates to create a story using maps, images, videos and web
 This documentation is not intended to be a full reference for Story Maps but focuses on important topics that
 will help understand important technical concepts and be successful with Story Maps.
 
-The following main sections are included in this documentation:
-
-* [Introduction](introduction) - describes what Story Maps are and why you might want to create one
-* [Create an ArcGIS Online Account](create-account) - describes both the free and subscription-style accounts
-* [Create a Basic Map](create-map/overview)
-	+ [Choose a Basemap](create-map/choose-basemap)
-	+ [Add Layers](create-map/add-layers)
-	+ [Change the Map Style](create-map/change-style)
-	+ [Configure Pop-ups](create-map/configure-popups)
-	+ [Save the Map](create-map/save-map)
-* [Story Map Templates](story-map-templates)
-* [Create a Story Map](create-story-map/overview)	
-	+ [Tabbed Layout Example](create-story-map/tabbed-layout)
-	+ [Side Accordion Layout Example](create-story-map/side-accordion-layout)
-	+ [Bulleted Layout Example](create-story-map/bulleted-layout)
-* [Hosting Your Own Story Map](hosting/overview)
-	+ [Hosting an Un-Customized App](hosting/uncustomized-app)
-	+ [Hosting a Styled App](hosting/styled-app)
-	+ [Hosting a Customized App](hosting/customized-app)
-	+ [FAQs About Hosting and Editing](hosting/hosting-faqs)
-* [Resources](resources) - various resources
+Use the navigation menu provided on the left side of the page to navigate the documentation sections within the full document.  Use the 
+navigation menu provided on the right side of the page to navigate the documentation sections within a page.  The navigation menus may 
+not be displayed if the web browser window is narrow or if viewing on a mobile device, in which case look for a menu icon to access the 
+menus.  Use the search feature to find documentation matching the search words.
 
 ## License ##
 

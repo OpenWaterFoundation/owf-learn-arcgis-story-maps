@@ -48,8 +48,9 @@ either a Contributor or a Viewer.  A Viewer can basically view maps and projects
  for a Viewer is $9/month.  A Contributor can create new maps, edit existing ones, perform spatial analyses, add new content, etc.  The price 
  for a Contributor is $42/month.  Anyone looking to create a Story Map will therefore need to be registered as a Contributor.
  
-If you have already purchased ArcGIS Desktop, then this should have come with an ArcGIS Online subscription for one user.  See more information
-[here](http://www.esri.com/esri-news/arcnews/winter1314articles/arcgis-for-desktop-now-includes-arcgis-online-subscription).
+**If you have already purchased ArcGIS Desktop, then this should have come with an ArcGIS Online subscription for one user.**  See more information
+[here](http://www.esri.com/esri-news/arcnews/winter1314articles/arcgis-for-desktop-now-includes-arcgis-online-subscription).  Adding another member 
+requires paying the fee for either a Viewer or a Contributor.
  
 There is special program pricing for educational institutions and non-profits.  However, you must apply and be approved for an account, and 
 the cost for this style of account is not listed.
@@ -58,6 +59,7 @@ Each Contributor subscription comes with 500 "service credits" per year.  Servic
 lifestyle maps.  The service credits used for storage are shown below.
 
 ![Service Credits](create-account-images/servicecredits.png)
+<a href="../create-account-images/servicecredits.png">See also the full-size image.</a>
 
 See [Service Credits Overview](http://www.arcgis.com/features/plans/credits.html) for more information.  If you received a free subscription 
 because you purchased ArcGIS Desktop, then that subscription should come with 100 service credits.  Additional service credits can be
