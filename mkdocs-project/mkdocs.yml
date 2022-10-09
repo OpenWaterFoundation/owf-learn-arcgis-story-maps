@@ -39,9 +39,10 @@ extra_css:
 # ------------------------------------------------
 # Google Analytics
 # - see:  https://squidfunk.github.io/mkdocs-material/getting-started/#google-analytics
-google_analytics:
- - 'UA-135465513-1'
- - auto
+extra:
+  analytics:
+    provider: google
+    property: 'G-KJFMBY739T'
 # ------------------------------------------------
 # Don't indicate the repo because Edit will be shown on every page (don't want that in deployed mode)
 # - Also see edit_uri if repo_url is specified
